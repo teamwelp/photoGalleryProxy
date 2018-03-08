@@ -36,11 +36,15 @@
 #bodyReviews {
     width: 629px;
     margin-left: -15px;
+    padding-right: 45px;
+    overflow: auto;
+    border-right: 1px solid #e6e6e6; 
 }
+
+
 
 #bodyBizInfo {
     width: 331px;
-    margin-left: 15px;
 }
 
 #bodyBizInfo a {
